@@ -50,9 +50,9 @@ It introduces transparency, accountability, and efficiency at every administrati
 ---
 
 ## 👥 Project Team
--Sounhard Powar 
-- Priyanka Patil   
-- Sanjana Nitnware  
+-Sanjana Nitnware 
+- Priyanka Patil
+- Sounhard Powar  
 - Karan Patil
 
 ---
@@ -64,7 +64,7 @@ KIT’s College of Engineering (Autonomous), Kolhapur
 ---
 
 ## 🔗 LinkedIn Profile
-[Sounhard Powar](https://www.linkedin.com/in/sounhard-powar)
+[Sanjana Nitnware](https://www.linkedin.com/in/sanjana-nitnware-4163942b3))
 
 ---
 
