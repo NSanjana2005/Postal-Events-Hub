@@ -64,7 +64,7 @@ KIT’s College of Engineering (Autonomous), Kolhapur
 ---
 
 ## 🔗 LinkedIn Profile
-[Sanjana Nitnware](https://www.linkedin.com/in/sanjana-nitnware-4163942b3))
+[Sanjana Nitnware](https://www.linkedin.com/in/sanjana-nitnware-4163942b3)
 
 ---
 
